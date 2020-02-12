@@ -1,0 +1,2 @@
+# kandi
+Kandidaatintyön koodi
